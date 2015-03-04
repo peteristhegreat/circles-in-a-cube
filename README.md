@@ -1,2 +1,2 @@
-# pendulum
-A series of pendulums of different lengths, swinging.  Qt, opengl.
+# circles-in-a-cube
+8x8x8 Circles or Spheres drawn in OpenGL in Qt, based off the grabber example.  See the pendulum repo, too.
